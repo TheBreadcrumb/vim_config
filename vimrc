@@ -45,6 +45,8 @@ nnoremap <leader><space> :nohlsearch<CR>
 
 " move to the beginning/end of a line
 nnoremap <leader>h ^
+nnoremap <leader>j j$
+nnoremap <leader>k k$
 nnoremap <leader>l $
 
 " save a session (requires <CR> to complete)
