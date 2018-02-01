@@ -38,7 +38,7 @@ nnoremap k gk
 " }}}
 
 " Leader Shortcuts {{{
-let mapleader=" " " leader is space
+let mapleader=";" " leader is ;
 
 " map turn off search highlight
 nnoremap <leader><space> :nohlsearch<CR>
